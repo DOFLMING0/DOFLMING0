@@ -5,7 +5,7 @@
 
 
 $${\color{#D3D3D1}Medyo \space
-\color{#553D64}busy \space
+\color{#B57791}busy \space
 \color{#D3D3D1}lang \space 
 \color{#553D64}sa \space
 \color{#D3D3D1}street
